@@ -1,5 +1,8 @@
 package exercise_12
 
+// Convert int to roman number.
+// 12. Integer to Roman
+
 func IntToRoman(num int) string {
 	roman := ""
 	counter := 1
